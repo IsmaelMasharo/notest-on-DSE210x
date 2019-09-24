@@ -1,4 +1,4 @@
-# Notes on edx course Statistics-and-Probability-in-Data-Science-using-Python
+# Notes on edx course DSE210x
 Course Outline
 
 ● Week 1 - Introduction
